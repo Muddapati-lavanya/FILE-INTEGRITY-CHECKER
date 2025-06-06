@@ -43,9 +43,9 @@ This project is a practical introduction to data security and validation. It sho
 CONCLUSION:
 The File Integrity Checker project teaches key skills in Python programming, file handling, and cybersecurity. Using tools like hashlib and json, the project demonstrates how to build a simple yet effective solution for monitoring file changes. It’s a foundational step toward more advanced topics like digital signatures and intrusion detection systems.
 
+*OUTPUT
 
-
-
+![Image](https://github.com/user-attachments/assets/e51f3123-0314-4de4-a664-24b5c5ff7a62)
 
 
 
